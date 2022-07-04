@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=statsboykun&label=Profile%20views&color=040bd7&style=flat" alt="statsboykun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=statsboykun" alt="statsboykun" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/raden_umarhp" target="blank"><img src="https://img.shields.io/twitter/follow/raden_umarhp?logo=twitter&style=for-the-badge" alt="raden_umarhp" /></a> </p>
 
 - 🔭 I’m currently studying at [Politeknik Statistika STIS](https://stis.ac.id/)
