@@ -21,6 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=statsboykun&show_icons=true&theme=onedark&locale=en&layout=compact" alt="statsboykun" /></p>
 
+<p></p>
 <h3 align="left">Github Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=statsboykun&show_icons=true&theme=onedark&locale=en" alt="statsboykun" /></p>
 
