@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://github.com/STATSBOYKUN/STATSBOYKUN/blob/main/img/banner.png" alt="statsboykun" /></p>
-<h2 align="center">Hi, I'm Statsboykun, a Learner</h2>
-
-<p align="left"> <a href="https://twitter.com/raden_umarhp" target="blank"><img src="https://img.shields.io/twitter/follow/raden_umarhp?logo=twitter&style=for-the-badge" alt="raden_umarhp" /></a> </p>
+<h2 align="center">Hi, I'm Statsboy-kun, a Learner</h2>
 
 - 🔭 I’m currently studying at [Politeknik Statistika STIS](https://stis.ac.id/)
 
@@ -24,6 +22,6 @@
 
 <p></p>
 <h3 align="left">Github Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=statsboykun&show_icons=true&theme=onedark&locale=en" alt="statsboykun" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=statsboykun&show_icons=true&theme=onedark&locale=en" alt="statsboykun" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=statsboykun&label=Profile%20views&color=040bd7&style=flat" alt="statsboykun" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=statsboykun&label=Visitors&color=040bd7&style=flat" alt="statsboykun" /> </p>
