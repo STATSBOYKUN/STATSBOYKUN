@@ -25,8 +25,8 @@
 <details>
    <summary><h3 align="left">Github Stats:</h3></summary>
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=statsboykun&show_icons=true&theme=onedark&locale=en&layout=compact" alt="statsboykun" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=statsboykun&show_icons=true&theme=onedark&locale=en" alt="statsboykun" /></p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=statsboykun)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=statsboykun)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=statsboykun&label=Visitors&color=040bd7&style=flat" alt="statsboykun" /> </p>
