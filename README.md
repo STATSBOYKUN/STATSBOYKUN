@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://github.com/STATSBOYKUN/STATSBOYKUN/blob/main/img/banner.png" alt="statsboykun" /></p>
-<h1 align="center">Hi 👋, I'm Umar, a Learner</h1>
+<h2 align="center">Hi, I'm Statsboykun, a Learner</h2>
 
 <p align="left"> <a href="https://twitter.com/raden_umarhp" target="blank"><img src="https://img.shields.io/twitter/follow/raden_umarhp?logo=twitter&style=for-the-badge" alt="raden_umarhp" /></a> </p>
 
