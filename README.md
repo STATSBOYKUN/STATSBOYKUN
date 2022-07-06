@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently studying at [Politeknik Statistika STIS](https://stis.ac.id/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m still learning **Seaborn**
 
 - 📫 How to reach me **radenumarhp277@student.uns.ac.id**
 
-- ⚡ Fun fact **I love omelette**
+- ⚡ Fun fact **I love omelette with ketchup**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
