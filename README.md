@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://github.com/STATSBOYKUN/STATSBOYKUN/blob/main/img/banner.png" alt="statsboykun" /></p>
+<p align="left"> <img src="https://github.com/STATSBOYKUN/STATSBOYKUN/blob/main/banner.png" alt="statsboykun" /></p>
 <h2 align="center">Hi, I'm Statsboy-kun, a Learner</h2>
 
 - 🔭 I’m currently studying at [Politeknik Statistika STIS](https://stis.ac.id/)
