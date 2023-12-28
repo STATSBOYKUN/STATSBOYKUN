@@ -37,4 +37,6 @@
 </p>
 <hr/>
 
-<h5 align="center">Thanks for visitting my profile **^-^**</h5>
+<h5 align="center">
+  🚀 Happy coding! | 🌐 Tech enthusiast | 🧑‍💻 Full-stack developer | 🔍 Exploring new technologies | 🤝 Open to collaboration | 📫 Let's connect!
+</h5>
