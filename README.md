@@ -2,9 +2,14 @@
 <h3 align="center">Hi, I'm Madoto</h2>
 
 <hr/>
+<h5>
+  I am a software developer with primary interests in web development and artificial intelligence. Currently, I focus on Jetbrains family technologies, with experience in building Java-based application projects. I am also interested in exploring and solving challenging technical challenges.
+</h5>
 
 <h5>I'm familiar with : </h5>
 
+<p align="center>
+  
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
@@ -29,4 +34,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-<h5>Thanks for visitting my profile **^-^**</h5>
+</p>
+<hr/>
+
+<h5 align="center">Thanks for visitting my profile **^-^**</h5>
