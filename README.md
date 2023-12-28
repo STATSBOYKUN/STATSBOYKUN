@@ -1,6 +1,10 @@
 <p align="left"> <img src="https://github.com/STATSBOYKUN/STATSBOYKUN/blob/main/banner.png" alt="statsboykun" /></p>
 <h3 align="center">Hi, I'm Madoto</h2>
 
+<h5 align="center">
+  🚀 Happy coding! | 🌐 Tech enthusiast | 🧑‍💻 Full-stack developer | 🔍 Exploring new technologies | 🤝 Open to collaboration | 📫 Let's connect!
+</h5>
+
 <hr/>
 <p align="center">
   I am a software developer with primary interests in web development and artificial intelligence. Currently, I focus on Jetbrains family technologies, with experience in building Java-based application projects. I am also interested in exploring and solving challenging technical challenges.
@@ -38,5 +42,5 @@
 <hr/>
 
 <h5 align="center">
-  🚀 Happy coding! | 🌐 Tech enthusiast | 🧑‍💻 Full-stack developer | 🔍 Exploring new technologies | 🤝 Open to collaboration | 📫 Let's connect!
+  Thank you for visiting my profile. Let's collaborate and create something amazing together! 🚀
 </h5>
