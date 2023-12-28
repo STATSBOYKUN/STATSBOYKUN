@@ -2,9 +2,9 @@
 <h3 align="center">Hi, I'm Madoto</h2>
 
 <hr/>
-<h5>
+<p align="center">
   I am a software developer with primary interests in web development and artificial intelligence. Currently, I focus on Jetbrains family technologies, with experience in building Java-based application projects. I am also interested in exploring and solving challenging technical challenges.
-</h5>
+</p>
 
 <h5>I'm familiar with : </h5>
 
