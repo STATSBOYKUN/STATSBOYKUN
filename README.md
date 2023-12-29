@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://github.com/STATSBOYKUN/STATSBOYKUN/blob/main/banner.png" alt="statsboykun" /></p>
+<p align="left"> <img src="https://github.com/STATSBOYKUN/STATSBOYKUN/blob/main/Artboard Git@3x.png" alt="statsboykun" /></p>
 <h3 align="center">Hi, I'm Madoto</h2>
 
 <h5 align="center">
