@@ -7,7 +7,7 @@
 
 <hr/>
 <p align="center">
-  I am a software developer with primary interests in web development and artificial intelligence. Currently, I focus on Jetbrains family technologies, with experience in building Java-based application projects. I am also interested in exploring and solving challenging technical challenges.
+  I am a software developer with primary interests in web development and artificial intelligence. Currently, I focus on Jetbrains softwares, with experience in building Java-based application projects. I am also interested in exploring and solving technical challenges.
 </p>
 
 <h5>I'm familiar with : </h5>
