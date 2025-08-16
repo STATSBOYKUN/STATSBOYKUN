@@ -42,5 +42,5 @@
 <hr/>
 
 <h5 align="center">
-  Thank you for visiting my profile. Let's collaborate and create something amazing together! 🚀
+  Thank you for visiting my profile. Let's collaborate and create something amazing together!! 🚀
 </h5>
